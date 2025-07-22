@@ -24,6 +24,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=phenriquels01&show_icons=true&theme=radical" alt="Pedro's GitHub stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=phenriquels01&theme=radical" alt="Pedro's GitHub Streak" />
 </p>
 
 ## Skills & Tools
@@ -41,7 +43,6 @@
 
 ## Let's connect
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phenriquels/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phenriquels/)
 
 ---
