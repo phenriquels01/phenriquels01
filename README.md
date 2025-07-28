@@ -17,8 +17,9 @@
 
 ## Featured Organizations
 
-- [ds-ml-lab](https://github.com/ds-ml-lab) — Personal portfolio of ML/DS projects  
-- [My-Py-Projects](https://github.com/My-Py-Projects) — Python projects  
+- [ds-ml-lab](https://github.com/ds-ml-lab) — Personal portfolio of ML/DS projects
+- [My-Py-Projects](https://github.com/My-Py-Projects) — Python projects
+- [My-Web-Dev-Projects](https://github.com/My-Web-Dev-Projects) - Full-Stack Development Projects
 
 ## GitHub Stats
 
